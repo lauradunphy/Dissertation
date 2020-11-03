@@ -1,2 +1,4 @@
 # Dissertation
-PhD Dissertation and accompanying supplemental data files
+Supplemental files accompanying my PhD Dissertation.
+
+The complete dissertation is available here: 
